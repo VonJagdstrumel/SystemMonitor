@@ -21,12 +21,12 @@ How to install
 
 * Install required packages (using `aptitude` for example)
 * Install and configure a http server
-* Modify `db/database.sql`, `shell/monitor.cron`, `www/monitor.php` and `shell/monitor.sh` according to your needs
+* Modify `db/database.sql`, `shell/monitor_cron`, `www/monitor.php` and `shell/monitor.sh` according to your needs
 * Import `db/database.sql` into your database
 * Insert filesystems and pinghosts into your database (see `db/example.sql`)
 * Put `shell/monitor.sh` anywhere, `chown root` and `chmod u+x` it
 * Put `www/` content somewhere into your http server document directory
-* Put `shell/monitor.cron` into `/etc/cron.d/`
+* Put `shell/monitor_cron` into `/etc/cron.d/`
 * Do a `service cron restart`
 
 Used libs
