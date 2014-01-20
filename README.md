@@ -3,6 +3,8 @@ SystemMonitor
 
 An amazing system activity tracking and chart generation in PHP
 
+Demo [here](https://www.behindtheshell.fr/monitor/)
+
 Debian package dependencies
 ---------------------------
 
