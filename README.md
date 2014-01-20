@@ -1,3 +1,8 @@
+SystemMonitor
+=============
+
+An amazing system activity tracking and chart generation in PHP
+
 Debian package dependencies
 ---------------------------
 
