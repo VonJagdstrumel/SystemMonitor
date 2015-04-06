@@ -1,4 +1,4 @@
-SystemMonitor
+System Monitor
 =============
 
 An amazing system activity tracking and chart generation in PHP
